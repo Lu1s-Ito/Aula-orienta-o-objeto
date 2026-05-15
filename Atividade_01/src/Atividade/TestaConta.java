@@ -2,7 +2,7 @@
 package Atividade;
 
 //classe de Teste Conta
-public class Teste_Conta {
+public class TestaConta {
 
     //teste de rodar na memoria
     public static void main(String[] args) {

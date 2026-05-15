@@ -2,7 +2,7 @@
 package Atividade;
 
 //classe de teste do cartão
-public class teste_cartao {
+public class TestaCartao {
 
     //teste de rodar na memoria
     public static void main(String[] args) {

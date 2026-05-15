@@ -2,7 +2,7 @@
 package Atividade;
 
 //classe de Teste Tudo
-public class Testa_Tudo {
+public class TestaTudo {
 
     //teste de rodar na memoria
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
 package Atividade;
 
 //classe de teste 
-public class Testa_Cliente {
+public class TestaCliente {
 
     //rodar na memoria
     public static void main(String[] args) {

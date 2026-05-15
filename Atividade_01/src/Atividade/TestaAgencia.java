@@ -2,7 +2,7 @@
 package Atividade;
 
 //classe de Teste Agenía
-public class Teste_Agencia {
+public class TestaAgencia {
     
     //teste de rodar na memoria
     public static void main(String[] args) {

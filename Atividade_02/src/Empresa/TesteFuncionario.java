@@ -57,13 +57,13 @@ public class TesteFuncionario {
         System.out.println("dados do funcionarios: " + "Nome: " 
                 + f1.consultar_n() + ", "+ "Salario: " + f1.consultar_s());
         
-        //Consultar os dados dos funcionario 1
+        System.out.println("-------------------------------");
+        
+        //Consultar os dados dos funcionario 2
         f2.consultar_n();
         f2.consultar_s();
         
-        System.out.println("-------------------------------");
-        
-        //imprime os dados do f1
+        //imprime os dados do f2
         System.out.println("dados do funcionarios: " + "Nome: " 
                 + f2.consultar_n() + ", "+ "Salario: " + f2.consultar_s());
     }
